@@ -1,16 +1,3 @@
 # kookit
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kookit is a flutter based mobile Application. The backend is built on DotNet. MongoDb is used as the database. The idea of the app is to create an app for a cooking robot. You can specify minor ingredients and as well you can choose to use the recommended ingredients. We have a library of recipes you can try with the robot. To sync in with the robot you need to scan the QR Code of the device and you are good to go.
